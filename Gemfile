@@ -5,7 +5,6 @@ gem 'sqlite3'
 gem 'protected_attributes', '1.1.0'
 gem 'doorkeeper', '~> 4.2'
 gem 'devise'
-gem 'awesome_print'
 
 group :development, :test do
   gem 'byebug'
